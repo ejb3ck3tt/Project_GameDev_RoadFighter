@@ -21,3 +21,6 @@ The player will need to navigate his/her way through the traffic. He can dodge t
 - Coins – the player earn points each time it is collected and wins the game when mission is complete.
 - Traffic cars – to play as the distraction and make it difficult to the player to collect the coins.
 - Roadblocks – obstacles that the player needs to avoid at all cost or it ends the game.
+
+##LICENSE
+[MIT](https://github.com/MichaIng/nodejs-linux-installer/blob/master/LICENSE)
